@@ -1,0 +1,15 @@
+button {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    font-family: Gilroy;
+    border: none;
+}
+
+h1 {
+    font-family: Alterner;
+}
+
+body {
+    background-color: white;
+}
